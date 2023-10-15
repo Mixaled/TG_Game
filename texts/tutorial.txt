@@ -1,0 +1,3 @@
+!Tutorial!
+Print '/list' to see a list of people you can talk to, then print '/speak Robert' to open the possibility of
+talking with him. After that, you can talk to him and complete your job.
